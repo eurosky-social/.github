@@ -8,6 +8,8 @@ This is the next era of social media—built in Europe, run on our cloud, ruled 
 
 Not Big Tech. Not ever.
 
+Start from our [monorepo](https://github.com/eurosky-social/eurosky-social)!
+
 ## Connect
 
 - **Website**: [eurosky.social](https://www.eurosky.social/)
