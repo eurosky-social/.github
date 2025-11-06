@@ -8,9 +8,12 @@ This is the next era of social media—built in Europe, run on our cloud, ruled 
 
 Not Big Tech. Not ever.
 
-Start from our [monorepo](https://github.com/eurosky-social/eurosky-social)!
+
+
 
 ## Connect
 
 - **Website**: [eurosky.social](https://www.eurosky.social/)
 - **AT Protocol**: [@eurosky.social](https://bsky.app/profile/eurosky.social)
+- **Monorepo**: [here](https://github.com/eurosky-social/eurosky-social)
+- **Status Page**: [here](https://eurosky.hyperping.app/)
