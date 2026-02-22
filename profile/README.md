@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurosky-social/.github/main/profile/logo.png" alt="Eurosky" width="200" />
+</p>
+
 # Eurosky
 
 A European social network built on the AT Protocol (Bluesky).
