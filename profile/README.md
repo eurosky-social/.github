@@ -17,7 +17,7 @@ Not Big Tech. Not ever.
 
 ## Connect
 
-- **Website**: [eurosky.social](https://www.eurosky.social/)
+- **Website**: [eurosky.tech](https://www.eurosky.tech/)
 - **AT Protocol**: [@eurosky.social](https://bsky.app/profile/eurosky.social)
 - **Monorepo**: [here](https://github.com/eurosky-social/eurosky-social)
-- **Status Page**: [here](https://eurosky.hyperping.app/)
+- **Status Page**: [here](https://eurosky-tech.hyperping.app/)
