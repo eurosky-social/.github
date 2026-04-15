@@ -2,22 +2,29 @@
   <img src="logo.png" alt="Eurosky" width="200" />
 </p>
 
-# Eurosky
+# Eurosky — Your Portal to the Atmosphere
 
-A European social network built on the AT Protocol (Bluesky).
+Eurosky is your European home on the Atmosphere, a new world of social apps and services that all work together. It's the future of the web.
 
 ## About
 
-This is the next era of social media—built in Europe, run on our cloud, ruled by our laws. Users choose the content. Businesses control their brand environment. People control the algorithms.
+Eurosky is an independent European initiative spearheaded by a coalition of entrepreneurs, technologists and civil society organizations working towards a future where Europe has a thriving open social web that's innovative, competitive and built on European values.
 
-Not Big Tech. Not ever.
+Our mission is to build and operate sovereign digital infrastructure that enables European entrepreneurs and developers to build new products and services faster and better — and to catalyze healthier social experiences that delight people.
 
+Eurosky is an initiative of Modal (Stichting Modal), a non-profit organization based in the Netherlands supporting social technologies in the public interest. Modal grew out of the Free Our Feeds campaign to advocate for alternatives to big tech.
 
+Both Modal and Eurosky are in startup phase, with contributions from many partners and peer organizations. We are building out our team and our board to ensure diversity in geography, gender and expertise.
 
+[Learn more](https://www.eurosky.tech/about)
 
-## Connect
+## Connect with us
 
-- **Website**: [eurosky.tech](https://www.eurosky.tech/)
-- **AT Protocol**: [@eurosky.social](https://bsky.app/profile/eurosky.social)
-- **Monorepo**: [here](https://github.com/eurosky-social/eurosky-social)
-- **Status Page**: [here](https://eurosky-tech.hyperping.app/)
+- **Website**:
+  - [Homepage](https://www.eurosky.tech/)
+  - [Contact Us](https://eurosky.tech/contact/)
+  - [Blog](https://eurosky.tech/blog/)
+- **On the Atmosphere**:
+  - [Bluesky](https://bsky.app/profile/eurosky.social)
+- **Status Page**:
+  - [View our current status](https://eurosky-tech.hyperping.app/)
