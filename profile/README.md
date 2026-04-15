@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="eurosky-logo-black.png" alt="Eurosky" width="200" />
+  <a href="https://eurosky.tech">
+    <img src="eurosky-logo-black.png" alt="Eurosky" width="200" />
+  </a>
 </p>
 
 # Eurosky — Your Portal to the Atmosphere
